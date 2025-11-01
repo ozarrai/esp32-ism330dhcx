@@ -1,0 +1,41 @@
+# Build artifacts
+build/
+build_*_*/
+# SDK configuration files
+sdkconfig
+sdkconfig.old
+# Managed components
+managed_components/
+dependencies.lock
+# Logs and test outputs
+pytest_embedded_log/
+app_info_*.txt
+size_info_*.txt
+build_summary_*.xml
+# IDE-specific files
+vscode/
+idea/
+*.sublime-project
+*.sublime-workspace
+# Temporary files
+*.swp
+*.swo
+DS_Store
+# Coverage reports
+*.gcda
+*.gcno
+coverage.info
+coverage_report/
+# Python cache and logs
+__pycache__/
+pytest_cache/
+mypy_cache
+# Documentation build artifacts
+docs/_build/
+docs/doxygen_sqlite3.db
+# Miscellaneous
+*.o
+*.pyc
+dist/
+examples/esp32-ism330dhcx-i2c/.devcontainer/
+examples/esp32-ism330dhcx-i2c/.vscode/

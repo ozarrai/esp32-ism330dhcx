@@ -1,0 +1,7 @@
+version: "0.0.2"
+description: "ism330dhcx driver for esp-idf"
+url: "https://github.com/ozarrai/esp32-ism330dhcx"
+files:
+  use_gitignore: true
+  exclude:
+   - ".vscode/**/*"
