@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "ism330dhcx.h": "c"
-    }
+    },
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true
 }
