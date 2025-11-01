@@ -1,5 +1,5 @@
-version: "0.0.2"
-description: "ism330dhcx driver for esp-idf"
+version: "0.1.1"
+description: "ESP-IDF driver for ISM330DHCX 6-axis IMU with I2C support and event detection"
 url: "https://github.com/ozarrai/esp32-ism330dhcx"
 files:
   use_gitignore: true

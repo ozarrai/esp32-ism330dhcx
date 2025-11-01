@@ -42,7 +42,7 @@ Add the component to your project's `idf_component.yml`:
 dependencies:
   esp32-ism330dhcx:
     git: https://github.com/ozarrai/esp32-ism330dhcx.git
-    version: "0.0.2"
+    version: "0.1.1"
 ```
 
 ### Manual Installation
@@ -298,4 +298,4 @@ Developed by ozarrai
 
 ## Version
 
-Current version: 0.0.2
+Current version: 0.1.1
